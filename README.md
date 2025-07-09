@@ -10,7 +10,7 @@
 <h2>Sobre mí 😃</h2>
 
 <p align="left">
-🎓 Recién egresado de la carrera de Ingeniería en Sistemas Computacionales.
+🎓 Ingeniero en Sistemas Computacionales.
 
 💻 Apasionado por el desarrollo frontend, con enfoque en la creación de interfaces modernas, funcionales y accesibles.
 
