@@ -18,7 +18,7 @@
 
 🚀 Actualmente estoy fortaleciendo mis habilidades en proyectos personales usando Angular, React y TypeScript.
 
-📫 Contacto: **jose.borboino@badak.mx**
+📫 Contacto: **jose.borbonio@badak.mx**
 </p>
 
 <br>
